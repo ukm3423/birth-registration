@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Main<birth-registration>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "digit.Main",
+            "projectName": "birth-registration",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
